@@ -1,6 +1,5 @@
 # TESCO-Customer-Retention-Analytics-By-Power-BI-Dashboard
 ### Project Provided by: **Internshala Data Science Training Program**  
-### Project Explanation Video: [▶ Watch Here](https://drive.google.com/file/d/1krrqdZtEW2qPGIEjFuE0DdsibloFRkSK/view?usp=sharing)
 
 ---
 
